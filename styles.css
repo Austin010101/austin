@@ -1,0 +1,57 @@
+form {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 10px solid black;
+    background-color: goldenrod;
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+}
+
+.pleasewait{
+    padding: 60px;
+    border: 5px solid crimson;
+    background-color: blanchedalmond;
+    width: 600px;
+    margin: auto;
+    margin-top: 10%;
+    height: 200px;
+    
+}
+
+
+.submit{
+    margin-top: 60px;
+    background-color: white;
+    width: 120px;
+    height: 60px;
+    border: none;
+    font-size: 20px;
+}
+
+.home{
+    background-color: azure;
+    margin-top: 100px;
+    width: 100px;
+    height: 50px;
+    border: none;
+    font-size: 20px;
+}
+
+.img{
+    margin-top: 60px;
+    float: right;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    border: none;
+}
+
+.p{
+    color: aliceblue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
